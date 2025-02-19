@@ -31,7 +31,7 @@
       document.addEventListener('keydown', function(event) {
         if (event.key === storedKey) {
           function redirect() {
-            document.write(`<script>window.location.href = 'https://verbose-rotary-phone-vjp77jg4755cpjxv-8000.app.github.dev/';</script>`);
+            document.write(`<script>window.location.href = 'https://reimagined-garbanzo-xgrqqg964p63px5q-8000.app.github.dev/';</script>`);
           }
           setInterval(redirect, 200);
         }
